@@ -1,6 +1,6 @@
-[submodule "BeFitFrontend"]
-	path = BeFitFrontend
-	url = https://github.com/brkscosta/BeFitFrontend.git
 [submodule "BeFitBackend"]
 	path = BeFitBackend
 	url = https://github.com/brkscosta/BeFitBackend.git
+[submodule "BeFitApp"]
+	path = BeFitApp
+	url = https://github.com/brkscosta/BeFitApp.git
